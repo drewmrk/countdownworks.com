@@ -1599,10 +1599,10 @@
     rc9 "^1.2.0"
     std-env "^2.3.0"
 
-"@nuxt/types@2.15.7":
-  version "2.15.7"
-  resolved "https://registry.yarnpkg.com/@nuxt/types/-/types-2.15.7.tgz#b5275e183ba8c046d3a97e57198c4103109b889e"
-  integrity sha512-jqExebL4Dh5Rn88xVP1/o/a4gxpF7Z1O/kbVjEzEbbvt2E8J0lLc3wsaRYpbqt+S3S9YfvD8FKR85TzkqYtgqw==
+"@nuxt/types@2.15.8":
+  version "2.15.8"
+  resolved "https://registry.yarnpkg.com/@nuxt/types/-/types-2.15.8.tgz#1249de448f68169fe17e9379ee7b5caa0eb336b0"
+  integrity sha512-zBAG5Fy+SIaZIerOVF1vxy1zz16ZK07QSbsuQAjdtEFlvr+vKK+0AqCv8r8DBY5IVqdMIaw5FgNUz5py0xWdPg==
   dependencies:
     "@types/autoprefixer" "9.7.2"
     "@types/babel__core" "7.1.14"
@@ -2144,20 +2144,15 @@
   dependencies:
     "@types/node" "*"
 
-"@types/node@*":
-  version "16.4.3"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.4.3.tgz#c01c1a215721f6dec71b47d88b4687463601ba48"
-  integrity sha512-GKM4FLMkWDc0sfx7tXqPWkM6NBow1kge0fgQh0bOnlqo4iT1kvTvMEKE0c1RtUGnbLlGRXiAA8SumE//90uKAg==
+"@types/node@*", "@types/node@>=12.12.47", "@types/node@>=13.7.0":
+  version "16.4.10"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.4.10.tgz#e57e2a54fc6da58da94b3571b1cb456d39f88597"
+  integrity sha512-TmVHsm43br64js9BqHWqiDZA+xMtbUpI1MBIA0EyiBmoV9pcEYFOSdj5fr6enZNfh4fChh+AGOLIzGwJnkshyQ==
 
 "@types/node@12.20.12":
   version "12.20.12"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-12.20.12.tgz#fd9c1c2cfab536a2383ed1ef70f94adea743a226"
   integrity sha512-KQZ1al2hKOONAs2MFv+yTQP1LkDWMrRJ9YCVRalXltOfXsBmH5IownLxQaiq0lnAHwAViLnh2aTYqrPcRGEbgg==
-
-"@types/node@>=12.12.47", "@types/node@>=13.7.0":
-  version "16.4.10"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.4.10.tgz#e57e2a54fc6da58da94b3571b1cb456d39f88597"
-  integrity sha512-TmVHsm43br64js9BqHWqiDZA+xMtbUpI1MBIA0EyiBmoV9pcEYFOSdj5fr6enZNfh4fChh+AGOLIzGwJnkshyQ==
 
 "@types/node@^12.0.2":
   version "12.20.17"
