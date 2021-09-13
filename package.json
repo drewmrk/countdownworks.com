@@ -30,7 +30,7 @@
     "vuefire": "^2.2.5"
   },
   "devDependencies": {
-    "@babel/eslint-parser": "^7.14.7",
+    "@babel/eslint-parser": "7.14.7",
     "@commitlint/cli": "^12.1.4",
     "@commitlint/config-conventional": "^12.1.4",
     "@nuxt/types": "2.15.7",
@@ -41,7 +41,7 @@
     "@nuxtjs/style-resources": "1.2.0",
     "@nuxtjs/stylelint-module": "4.0.0",
     "axe-core": "4.3.2",
-    "babel-core": "^6.26.3",
+    "babel-core": "6.26.3",
     "cssnano": "5.0.7",
     "eslint": "7.31.0",
     "eslint-config-prettier": "8.3.0",
