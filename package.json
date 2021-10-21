@@ -57,7 +57,7 @@
     "stylelint-color-format": "1.1.0",
     "stylelint-config-prettier": "8.0.2",
     "stylelint-config-sass-guidelines": "8.0.0",
-    "stylelint-config-standard": "22.0.0",
+    "stylelint-config-standard": "23.0.0",
     "stylelint-order": "4.1.0",
     "vue-axe": "2.4.4"
   }
