@@ -30,7 +30,7 @@
     "vuefire": "2.2.5"
   },
   "devDependencies": {
-    "@babel/eslint-parser": "7.15.7",
+    "@babel/eslint-parser": "7.19.1",
     "@commitlint/cli": "13.2.0",
     "@commitlint/config-conventional": "13.2.0",
     "@nuxt/types": "2.15.8",
